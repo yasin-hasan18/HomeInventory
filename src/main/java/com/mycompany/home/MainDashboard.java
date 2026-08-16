@@ -54,7 +54,7 @@ public class MainDashboard extends JFrame {
         this.currentHomeName = homeName;
 
         setTitle("Simple Home Inventory - Dashboard");
-        java.net.URL iconURL = getClass().getResource("/homeinventory/pikachu.jpg");
+        java.net.URL iconURL = getClass().getResource("/com/mycompany/home/pikachu.jpg");
         if (iconURL != null) {
             ImageIcon icon = new ImageIcon(iconURL);
             this.setIconImage(icon.getImage());

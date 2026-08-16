@@ -41,7 +41,7 @@ public class LoginFrame extends JFrame {
         mainPanel.setBackground(Color.WHITE);
         mainPanel.setLayout(null);
         setContentPane(mainPanel);
-        waveHeader = new WaveHeaderPanel("/com/mycompany/home/login_bg.png");
+        waveHeader = new WaveHeaderPanel("/com/mycompany/home/login_bg.jpg");
         mainPanel.add(waveHeader);
 
         title = new JLabel("Welcome", SwingConstants.CENTER);
