@@ -256,11 +256,11 @@ The project is actively developed as a Java-based desktop inventory management a
 
 ## 👨‍💻 Author
 
-**1841_Yasin Hasan_1841_Tapos_1844_Adnan_1845Rakib_1846_MdSohan_1847_ MD.Moshiur_1848_Ashfaq_1849_Sadman_1850_MdAzizul_1851_Junayet**
+**1841_Yasin Hasan<br>1841_Tapos<br>1844_Adnan<br>1845_Rakib<br>1846_MdSohan<br>1847_ MD.Moshiur<br>1848_Ashfaq<br>1849_Sadman<br>1850_MdAzizul<br>1851_Junayet**
 
 GitHub:
 https://github.com/yasin-hasan18<br>
-http://github.com/ashfaqjuniv2005<br
+http://github.com/ashfaqjuniv2005<br>
 https://github.com/hasanaziz-codes<br>
 https://github.com/CODE-TAPOS<br>
 https://github.com/Adnan-Abir67<br>
