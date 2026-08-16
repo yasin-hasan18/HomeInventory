@@ -1,0 +1,17 @@
+1:::yash:::My Home:::Living Room
+2:::yash:::My Home:::Bedroom
+3:::yash:::My Home:::Kitchen
+4:::yash:::My Home:::Dining Room
+5:::yash:::My Home:::Bathroom
+6:::yash:::My Home:::Guest Room
+7:::yash:::My Home:::Study Room
+8:::yash:::My Home:::Store Room
+9:::yash:::My Home:::ju
+10:::yash:::MH:::Living Room
+11:::yash:::MH:::Bedroom
+12:::yash:::MH:::Kitchen
+13:::yash:::MH:::Dining Room
+14:::yash:::MH:::Bathroom
+15:::yash:::MH:::Guest Room
+16:::yash:::MH:::Study Room
+17:::yash:::MH:::Store Room
