@@ -256,16 +256,10 @@ The project is actively developed as a Java-based desktop inventory management a
 
 ## 👨‍💻 Author
 
-**1843_Yasin Hasan<br>1841_Tapos<br>1844_Adnan<br>1845_Rakib<br>1846_MdSohan<br>1847_ MD.Moshiur<br>1848_Ashfaq<br>1849_Sadman<br>1850_MdAzizul<br>1851_Junayet**
+**1Yasin Hasan**
 
 GitHub:
 https://github.com/yasin-hasan18<br>
-http://github.com/ashfaqjuniv2005<br>
-https://github.com/hasanaziz-codes<br>
-https://github.com/CODE-TAPOS<br>
-https://github.com/Adnan-Abir67<br>
-https://github.com/Rakibcode10<br>
-https://github.com/Moshiur16918<br>
 
 Repository:
 https://github.com/yasin-hasan18/HomeInventory
