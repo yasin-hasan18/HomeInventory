@@ -256,7 +256,7 @@ The project is actively developed as a Java-based desktop inventory management a
 
 ## 👨‍💻 Author
 
-**1Yasin Hasan**
+**Yasin Hasan**
 
 GitHub:
 https://github.com/yasin-hasan18<br>
